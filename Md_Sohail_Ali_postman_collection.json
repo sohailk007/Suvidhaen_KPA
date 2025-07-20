@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "9868ffb3-0ee7-42a7-a40f-48973465e68d",
+		"name": "Suvidhaen_KPA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40332547"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:8000/api/forms/wheel-specification/",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "http://127.0.0.1:8000/api/forms/bogie-checksheet/",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
